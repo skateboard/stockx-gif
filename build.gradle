@@ -1,0 +1,19 @@
+plugins {
+    id 'java'
+}
+
+group 'org.example'
+version '1.0-SNAPSHOT'
+
+repositories {
+    mavenCentral()
+
+}
+
+dependencies {
+    testCompile group: 'junit', name: 'junit', version: '4.12'
+    implementation 'com.squareup.okhttp3:okhttp:+'
+    implementation 'com.google.code.gson:gson:+'
+    implementation group: 'org.sejda.imageio', name: 'webp-imageio', version: '0.1.6'
+
+}
