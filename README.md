@@ -14,7 +14,7 @@ import me.brennan.stockxgiffer.StockXGiffer;
 public class Test {
 
     public static void main(String[] args) throws Exception {
-        final StockXGiffer stockXGiffer = new StockXGiffer("https://stockx.com/adidas-yeezy-boost-350-v2-desert-sage", "test");
+        final StockXGiffer stockXGiffer = new StockXGiffer("https://stockx.com/adidas-yeezy-boost-350-v2-desert-sage", "output");
         stockXGiffer.perform();
     }
 
