@@ -5,7 +5,7 @@
 <br />
 
 # Idea
-I go this idea from [Fyko/stockx-gif-next](https://github.com/Fyko/stockx-gif-next)
+I got this idea from [Fyko/stockx-gif-next](https://github.com/Fyko/stockx-gif-next)
 
 # Usage
 ```java
